@@ -1,2 +1,2 @@
 # file-diff-processor
-sync event driven file diff processor
+async event driven file diff processor
