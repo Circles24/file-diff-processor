@@ -1,0 +1,9 @@
+2022-06-26 15:23:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JOB" not found (this database is empty); SQL statement:
+select job0_.id as id1_0_, job0_.buyers_file_path as buyers_f2_0_, job0_.created_at as created_3_0_, job0_.owner as owner4_0_, job0_.owner_email as owner_em5_0_, job0_.state as state6_0_, job0_.suppliers_file_path as supplier7_0_, job0_.updated_at as updated_8_0_ from job job0_ [42104-214]
+2022-06-26 15:25:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JOB" not found (this database is empty); SQL statement:
+select job0_.id as id1_0_, job0_.buyers_file_path as buyers_f2_0_, job0_.created_at as created_3_0_, job0_.owner as owner4_0_, job0_.owner_email as owner_em5_0_, job0_.state as state6_0_, job0_.suppliers_file_path as supplier7_0_, job0_.updated_at as updated_8_0_ from job job0_ [42104-214]
+2022-06-26 15:36:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JOB" not found (this database is empty); SQL statement:
+select job0_.id as id1_0_, job0_.buyers_file_path as buyers_f2_0_, job0_.created_at as created_3_0_, job0_.owner as owner4_0_, job0_.owner_email as owner_em5_0_, job0_.state as state6_0_, job0_.suppliers_file_path as supplier7_0_, job0_.updated_at as updated_8_0_ from job job0_ [42104-214]
